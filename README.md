@@ -72,6 +72,11 @@ Steps:
 
 ## Results
 
+## Results
+
+### QAOA Final Probability Distribution
+![QAOA final distribution](images/qaoa_distribution_and_costs.png)
+
 ### Classical Cost Landscape
 The classical loss function shows that certain feature subsets perform much better than others.
 
