@@ -106,5 +106,3 @@ This is a known limitation of minimal QAOA and highlights why expressive circuit
 
 Understanding these limitations is essential for QAOA research.
 
----
-
